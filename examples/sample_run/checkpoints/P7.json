@@ -1,0 +1,16 @@
+{
+  "stage": "P7",
+  "status": "complete",
+  "started_at": "2026-08-05T11:34:14.415535+00:00",
+  "completed_at": "2026-08-05T11:34:14.415537+00:00",
+  "input_hash": "e3b0c44298fc1c14",
+  "output_hash": "959504c9d23eddb6",
+  "validation": {
+    "verifier": "pass",
+    "truth": "skipped",
+    "tester": "pass",
+    "overall": true
+  },
+  "fallback_used": null,
+  "artifact_path": "/home/z/my-project/ai-documentary-studio/projects/the-library-of-alexandria/acquired_assets.jsonl"
+}

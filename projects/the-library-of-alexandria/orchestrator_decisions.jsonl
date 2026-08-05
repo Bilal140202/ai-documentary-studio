@@ -1,0 +1,30 @@
+{"timestamp": "2026-08-05T11:33:00.539631+00:00", "event": "pipeline_start", "topic": "The Library of Alexandria", "duration": "2m", "style": "cinematic"}
+{"timestamp": "2026-08-05T11:33:00.540840+00:00", "event": "P1_start", "inputs": ["topic", "duration", "style"]}
+{"timestamp": "2026-08-05T11:33:00.541785+00:00", "event": "P1_complete", "artifact": "/home/z/my-project/ai-documentary-studio/projects/the-library-of-alexandria/research_plan.json"}
+{"timestamp": "2026-08-05T11:33:00.543353+00:00", "event": "P2_start", "inputs": []}
+{"timestamp": "2026-08-05T11:33:27.836856+00:00", "event": "P2_complete", "artifact": "/home/z/my-project/ai-documentary-studio/projects/the-library-of-alexandria/source_corpus.jsonl"}
+{"timestamp": "2026-08-05T11:33:27.837016+00:00", "event": "P3_start", "inputs": ["source_corpus_path"]}
+{"timestamp": "2026-08-05T11:33:59.124458+00:00", "event": "P3_complete", "artifact": "/home/z/my-project/ai-documentary-studio/projects/the-library-of-alexandria/verified_facts.json"}
+{"timestamp": "2026-08-05T11:33:59.126150+00:00", "event": "P4_start", "inputs": []}
+{"timestamp": "2026-08-05T11:33:59.137724+00:00", "event": "P4_complete", "artifact": "/home/z/my-project/ai-documentary-studio/projects/the-library-of-alexandria/script.json"}
+{"timestamp": "2026-08-05T11:33:59.138728+00:00", "event": "P5_start", "inputs": []}
+{"timestamp": "2026-08-05T11:33:59.139503+00:00", "event": "P5_complete", "artifact": "/home/z/my-project/ai-documentary-studio/projects/the-library-of-alexandria/directors_treatment.json"}
+{"timestamp": "2026-08-05T11:33:59.140512+00:00", "event": "P6_start", "inputs": []}
+{"timestamp": "2026-08-05T11:33:59.141415+00:00", "event": "P6_complete", "artifact": "/home/z/my-project/ai-documentary-studio/projects/the-library-of-alexandria/shot_list.json"}
+{"timestamp": "2026-08-05T11:33:59.151516+00:00", "event": "P7_start", "inputs": []}
+{"timestamp": "2026-08-05T11:34:14.415655+00:00", "event": "P7_complete", "artifact": "/home/z/my-project/ai-documentary-studio/projects/the-library-of-alexandria/acquired_assets.jsonl"}
+{"timestamp": "2026-08-05T11:34:14.420494+00:00", "event": "P8_start", "inputs": []}
+{"timestamp": "2026-08-05T11:34:14.421527+00:00", "event": "P8_complete", "artifact": "/home/z/my-project/ai-documentary-studio/projects/the-library-of-alexandria/clip_set.json"}
+{"timestamp": "2026-08-05T11:34:14.433980+00:00", "event": "P9_start", "inputs": []}
+{"timestamp": "2026-08-05T11:34:46.625280+00:00", "event": "P9_complete", "artifact": "/home/z/my-project/ai-documentary-studio/projects/the-library-of-alexandria/narration_aligned.json"}
+{"timestamp": "2026-08-05T11:34:46.632936+00:00", "event": "P10_start", "inputs": []}
+{"timestamp": "2026-08-05T11:34:50.455144+00:00", "event": "P10_complete", "artifact": "/home/z/my-project/ai-documentary-studio/projects/the-library-of-alexandria/graphics_manifest.jsonl"}
+{"timestamp": "2026-08-05T11:34:50.460353+00:00", "event": "P11_start", "inputs": []}
+{"timestamp": "2026-08-05T11:34:52.450029+00:00", "event": "P11_complete", "artifact": "/home/z/my-project/ai-documentary-studio/projects/the-library-of-alexandria/music_edl.json"}
+{"timestamp": "2026-08-05T11:34:52.451585+00:00", "event": "P12_start", "inputs": []}
+{"timestamp": "2026-08-05T11:34:52.453143+00:00", "event": "P12_complete", "artifact": "/home/z/my-project/ai-documentary-studio/projects/the-library-of-alexandria/edit_decision_list.json"}
+{"timestamp": "2026-08-05T11:34:52.455322+00:00", "event": "P13_start", "inputs": []}
+{"timestamp": "2026-08-05T11:35:03.290641+00:00", "event": "P13_complete", "artifact": "/home/z/my-project/ai-documentary-studio/projects/the-library-of-alexandria/render_manifest.json"}
+{"timestamp": "2026-08-05T11:35:03.292816+00:00", "event": "P14_start", "inputs": []}
+{"timestamp": "2026-08-05T11:35:03.428453+00:00", "event": "P14_complete", "artifact": "/home/z/my-project/ai-documentary-studio/projects/the-library-of-alexandria/qa_report.json"}
+{"timestamp": "2026-08-05T11:35:03.428601+00:00", "event": "pipeline_complete", "topic": "The Library of Alexandria"}

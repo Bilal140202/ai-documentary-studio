@@ -1,0 +1,16 @@
+{
+  "stage": "P6",
+  "status": "complete",
+  "started_at": "2026-08-05T11:33:59.141344+00:00",
+  "completed_at": "2026-08-05T11:33:59.141346+00:00",
+  "input_hash": "e3b0c44298fc1c14",
+  "output_hash": "2baa33150561fbfe",
+  "validation": {
+    "verifier": "pass",
+    "truth": "skipped",
+    "tester": "pass",
+    "overall": true
+  },
+  "fallback_used": null,
+  "artifact_path": "/home/z/my-project/ai-documentary-studio/projects/the-library-of-alexandria/shot_list.json"
+}

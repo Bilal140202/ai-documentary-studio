@@ -1,0 +1,116 @@
+{
+  "required_assets": [
+    {
+      "asset_id": "A001",
+      "shot_id": "S001",
+      "type": "b-roll",
+      "search_queries": [
+        "development environment, the Objective-C library"
+      ],
+      "source_priority": [
+        "youtube",
+        "pexels",
+        "pixabay",
+        "wikimedia",
+        "archive"
+      ],
+      "license_required": "any"
+    },
+    {
+      "asset_id": "A002",
+      "shot_id": "S002",
+      "type": "b-roll",
+      "search_queries": [
+        "library cover a wide range"
+      ],
+      "source_priority": [
+        "youtube",
+        "pexels",
+        "pixabay",
+        "wikimedia",
+        "archive"
+      ],
+      "license_required": "any"
+    },
+    {
+      "asset_id": "A003",
+      "shot_id": "S003",
+      "type": "b-roll",
+      "search_queries": [
+        "Golf Channel is an"
+      ],
+      "source_priority": [
+        "youtube",
+        "pexels",
+        "pixabay",
+        "wikimedia",
+        "archive"
+      ],
+      "license_required": "any"
+    },
+    {
+      "asset_id": "A004",
+      "shot_id": "S004",
+      "type": "b-roll",
+      "search_queries": [
+        "The history of Alexandria, Virginia,"
+      ],
+      "source_priority": [
+        "youtube",
+        "pexels",
+        "pixabay",
+        "wikimedia",
+        "archive"
+      ],
+      "license_required": "any"
+    },
+    {
+      "asset_id": "A005",
+      "shot_id": "S005",
+      "type": "b-roll",
+      "search_queries": [
+        "Alexandria is a major city"
+      ],
+      "source_priority": [
+        "youtube",
+        "pexels",
+        "pixabay",
+        "wikimedia",
+        "archive"
+      ],
+      "license_required": "any"
+    },
+    {
+      "asset_id": "A006",
+      "shot_id": "S006",
+      "type": "b-roll",
+      "search_queries": [
+        "Lying at the western edge"
+      ],
+      "source_priority": [
+        "youtube",
+        "pexels",
+        "pixabay",
+        "wikimedia",
+        "archive"
+      ],
+      "license_required": "any"
+    },
+    {
+      "asset_id": "A007",
+      "shot_id": "S007",
+      "type": "b-roll",
+      "search_queries": [
+        "with Plato and Aristotle featured"
+      ],
+      "source_priority": [
+        "youtube",
+        "pexels",
+        "pixabay",
+        "wikimedia",
+        "archive"
+      ],
+      "license_required": "any"
+    }
+  ]
+}

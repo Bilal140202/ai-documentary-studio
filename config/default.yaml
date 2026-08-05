@@ -1,0 +1,131 @@
+# ai-documentary-studio default configuration
+# See techstack.md for the full stack and fallback chains.
+
+project:
+  slug: null  # auto-generated from topic if null
+  workspace_root: "projects"
+  default_duration: "10m"
+  default_style: "cinematic"
+
+engines:
+  openmontage:
+    repo_path: "vendor/OpenMontage"
+    pipeline: "documentary-montage"
+    render_runtime: "hyperframes"
+    stage_timeout_s: 1800
+    enabled: true
+  videouse:
+    asr_backend: "faster_whisper"  # primary local; elevenlabs_scribe if key set
+    pack_transcripts: true
+    elevenlabs_api_key: null  # set via env ELEVENLABS_API_KEY
+  hyperframes:
+    version: "0.7.94"
+    fps: 30
+    workers: 2
+    node_path: null  # auto-detect
+
+media:
+  youtube:
+    quality: "1080p"
+    subtitles: true
+    cache_dir: "downloads/youtube"
+    cache_ttl_days: 30
+    rate_limit_seconds: 2.0
+    max_retries: 3
+  stock:
+    pexels_api_key: null  # env PEXELS_API_KEY
+    pixabay_api_key: null  # env PIXABAY_API_KEY
+  clip_selection:
+    mode: "auto"  # speech | visual | similarity | auto
+    weights:
+      speech: 0.5
+      visual: 0.3
+      similarity: 0.2
+    top_k: 5
+    min_score: 0.3
+
+narration:
+  provider: "auto"  # elevenlabs | kokoro | piper | espeak | auto
+  voice: "documentary_male_warm"
+  speed: 1.0
+  loudnorm: -14.0
+  elevenlabs_voice_id: null
+  kokoro_model: "kokoro-82M"
+  piper_model: "en_US-amy-medium"
+
+music:
+  source: "youtube_audio_library"  # fma | musopen | musicgen | youtube_audio_library
+  ducking_db: -12
+  ducking_attack_s: 0.05
+  ducking_release_s: 0.3
+  crossfade_s: 2.0
+  bpm_range: [60, 90]
+
+llm:
+  default_provider: "openai"
+  per_role:
+    truth_agent: "anthropic"
+    story_writer: "openai"
+    director: "anthropic"
+    research_planner: "openai"
+    research_collector: "openai"
+    visual_planner: "openai"
+    clip_selection: "openai"
+    narration_director: "openai"
+    music_director: "openai"
+    animation_director: "openai"
+    video_editing: "openai"
+    rendering: "openai"
+    qa: "anthropic"
+  openai_api_key: null  # env OPENAI_API_KEY
+  anthropic_api_key: null  # env ANTHROPIC_API_KEY
+  gemini_api_key: null  # env GEMINI_API_KEY
+  ollama_host: "http://localhost:11434"
+  ollama_model: "llama3.1:8b"
+  max_retries: 3
+  retry_backoff_s: 1.0
+
+truth:
+  min_sources: 2
+  snapshot_urls: true
+  contradiction_policy: "record_and_escalate"
+  wikipedia_api_url: "https://en.wikipedia.org/w/api.php"
+  wikidata_sparql_url: "https://query.wikidata.org/sparql"
+  wayback_api_url: "https://archive.org/wayback/available"
+
+testing:
+  run_unit_on_stage_transition: true
+  screenshot_diff_threshold: 0.01
+  max_repair_attempts: 3
+  references_dir: "tests/fixtures/references"
+
+render:
+  codec: "h264"
+  crf: 18
+  preset: "slow"
+  pixel_format: "yuv420p"
+  audio_codec: "aac"
+  audio_bitrate: "192k"
+  audio_sample_rate: 48000
+  loudnorm: -14.0
+  true_peak_db: -1.0
+  movflags: "+faststart"
+
+assets:
+  library_root: "assets/library"
+  subdirs:
+    raw: "raw"
+    processed: "processed"
+    clips: "clips"
+    audio: "audio"
+    narration: "narration"
+    music: "music"
+    graphics: "graphics"
+    renders: "renders"
+
+logging:
+  level: "INFO"
+  dir: "logs"
+  llm_log: "logs/llm.jsonl"
+  test_log: "logs/test_results.jsonl"
+  orchestrator_log: "logs/orchestrator_decisions.jsonl"

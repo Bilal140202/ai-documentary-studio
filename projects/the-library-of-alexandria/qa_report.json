@@ -1,0 +1,43 @@
+{
+  "overall": "conditional",
+  "criteria": [
+    {
+      "name": "all_stages_have_worklog_entries",
+      "status": "warn",
+      "evidence": "13/14 stages logged"
+    },
+    {
+      "name": "all_artifacts_present",
+      "status": "pass",
+      "evidence": "final_mp4 exists=True, srt exists=True"
+    },
+    {
+      "name": "ffprobe_valid",
+      "status": "pass",
+      "evidence": "codec=h264 duration=2.5s"
+    },
+    {
+      "name": "duration_valid",
+      "status": "warn",
+      "evidence": "duration=2.5s"
+    },
+    {
+      "name": "no_unverified_factual_claims",
+      "status": "pass",
+      "evidence": "0 unverified claims"
+    },
+    {
+      "name": "srt_present",
+      "status": "pass",
+      "evidence": "srt exists=True, size=1778"
+    },
+    {
+      "name": "sha256_recorded",
+      "status": "pass",
+      "evidence": "a069ec4b3782c6d6..."
+    }
+  ],
+  "issues": [],
+  "worklog_complete": false,
+  "artifacts_present": true
+}

@@ -1,0 +1,16 @@
+{
+  "stage": "P3",
+  "status": "complete",
+  "started_at": "2026-08-05T11:33:59.124352+00:00",
+  "completed_at": "2026-08-05T11:33:59.124354+00:00",
+  "input_hash": "e3b0c44298fc1c14",
+  "output_hash": "00a956ba4a32359a",
+  "validation": {
+    "verifier": "pass",
+    "truth": "pass",
+    "tester": "pass",
+    "overall": true
+  },
+  "fallback_used": null,
+  "artifact_path": "/home/z/my-project/ai-documentary-studio/projects/the-library-of-alexandria/verified_facts.json"
+}

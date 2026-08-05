@@ -1,0 +1,95 @@
+{
+  "title": "The Library of Alexandria",
+  "logline": "A documentary exploring the library of alexandria.",
+  "acts": [
+    {
+      "name": "Act I: Origins",
+      "summary": "Context and background.",
+      "beats": [
+        {
+          "beat_id": "B101",
+          "timecode_target": "00:00:00-00:01:00",
+          "narration": "development environment, the Objective-C library classes have &quot;NS&quot; prefixes, and the HISTORY section of the manual page for the defaults command in macOS",
+          "on_screen": "Supporting visuals.",
+          "factual_claims": [
+            "F001"
+          ],
+          "emotion": "neutral"
+        },
+        {
+          "beat_id": "B102",
+          "timecode_target": "00:01:00-00:02:00",
+          "narration": "library cover a wide range of key figures and events that have changed the game in unique ways, in particular over the last century.",
+          "on_screen": "Supporting visuals.",
+          "factual_claims": [
+            "F002"
+          ],
+          "emotion": "neutral"
+        }
+      ]
+    },
+    {
+      "name": "Act II: Conflict",
+      "summary": "Tension and development.",
+      "beats": [
+        {
+          "beat_id": "B201",
+          "timecode_target": "00:02:00-00:03:00",
+          "narration": "Golf Channel is an",
+          "on_screen": "Supporting visuals.",
+          "factual_claims": [
+            "F003"
+          ],
+          "emotion": "neutral"
+        },
+        {
+          "beat_id": "B202",
+          "timecode_target": "00:03:00-00:04:00",
+          "narration": "The history of Alexandria, Virginia, begins with the first European settlement in 1695.",
+          "on_screen": "Supporting visuals.",
+          "factual_claims": [
+            "F004"
+          ],
+          "emotion": "neutral"
+        }
+      ]
+    },
+    {
+      "name": "Act III: Resolution",
+      "summary": "Outcome and legacy.",
+      "beats": [
+        {
+          "beat_id": "B301",
+          "timecode_target": "00:04:00-00:05:00",
+          "narration": "Alexandria is a major city in Egypt.",
+          "on_screen": "Supporting visuals.",
+          "factual_claims": [
+            "F005"
+          ],
+          "emotion": "neutral"
+        },
+        {
+          "beat_id": "B302",
+          "timecode_target": "00:05:00-00:06:00",
+          "narration": "Lying at the western edge of the Nile River Delta, it extends about 40 km (25 mi) along the country&#039;s northern coast",
+          "on_screen": "Supporting visuals.",
+          "factual_claims": [
+            "F006"
+          ],
+          "emotion": "neutral"
+        },
+        {
+          "beat_id": "B303",
+          "timecode_target": "00:06:00-00:07:00",
+          "narration": "with Plato and Aristotle featured in the center.",
+          "on_screen": "Supporting visuals.",
+          "factual_claims": [
+            "F007"
+          ],
+          "emotion": "neutral"
+        }
+      ]
+    }
+  ],
+  "total_duration_estimate": "2m"
+}

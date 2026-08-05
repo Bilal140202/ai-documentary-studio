@@ -1,0 +1,1249 @@
+{
+  "audio_path": "/home/z/my-project/ai-documentary-studio/assets/library/narration/the-library-of-alexandria.wav",
+  "duration_s": 137.600417,
+  "words": [
+    {
+      "word": "The",
+      "start_s": 0.0,
+      "end_s": 0.22
+    },
+    {
+      "word": "library",
+      "start_s": 0.22,
+      "end_s": 0.58
+    },
+    {
+      "word": "on",
+      "start_s": 0.58,
+      "end_s": 0.84
+    },
+    {
+      "word": "valid",
+      "start_s": 0.84,
+      "end_s": 1.14
+    },
+    {
+      "word": "mandatory",
+      "start_s": 1.14,
+      "end_s": 1.58
+    },
+    {
+      "word": "log",
+      "start_s": 1.58,
+      "end_s": 1.98
+    },
+    {
+      "word": "line,",
+      "start_s": 1.98,
+      "end_s": 2.4
+    },
+    {
+      "word": "a",
+      "start_s": 2.64,
+      "end_s": 2.72
+    },
+    {
+      "word": "documentary",
+      "start_s": 2.72,
+      "end_s": 3.28
+    },
+    {
+      "word": "exploring",
+      "start_s": 3.28,
+      "end_s": 3.96
+    },
+    {
+      "word": "the",
+      "start_s": 3.96,
+      "end_s": 4.36
+    },
+    {
+      "word": "library",
+      "start_s": 4.36,
+      "end_s": 4.66
+    },
+    {
+      "word": "on",
+      "start_s": 4.66,
+      "end_s": 4.98
+    },
+    {
+      "word": "valid",
+      "start_s": 4.98,
+      "end_s": 5.2
+    },
+    {
+      "word": "mandatory.",
+      "start_s": 5.2,
+      "end_s": 5.8
+    },
+    {
+      "word": "Acti,",
+      "start_s": 6.3,
+      "end_s": 6.86
+    },
+    {
+      "word": "origin",
+      "start_s": 7.24,
+      "end_s": 7.58
+    },
+    {
+      "word": "context,",
+      "start_s": 7.58,
+      "end_s": 8.26
+    },
+    {
+      "word": "and",
+      "start_s": 8.56,
+      "end_s": 8.8
+    },
+    {
+      "word": "background.",
+      "start_s": 8.8,
+      "end_s": 9.24
+    },
+    {
+      "word": "B",
+      "start_s": 9.92,
+      "end_s": 9.98
+    },
+    {
+      "word": "-1001,",
+      "start_s": 9.98,
+      "end_s": 11.0
+    },
+    {
+      "word": "0",
+      "start_s": 11.22,
+      "end_s": 11.48
+    },
+    {
+      "word": "-0",
+      "start_s": 11.48,
+      "end_s": 11.9
+    },
+    {
+      "word": "-0",
+      "start_s": 11.9,
+      "end_s": 12.38
+    },
+    {
+      "word": "-0",
+      "start_s": 12.38,
+      "end_s": 12.98
+    },
+    {
+      "word": "-0",
+      "start_s": 12.98,
+      "end_s": 13.34
+    },
+    {
+      "word": "-0",
+      "start_s": 13.34,
+      "end_s": 14.06
+    },
+    {
+      "word": "-0",
+      "start_s": 14.06,
+      "end_s": 14.34
+    },
+    {
+      "word": "-0",
+      "start_s": 14.34,
+      "end_s": 14.42
+    },
+    {
+      "word": "-0",
+      "start_s": 14.42,
+      "end_s": 14.54
+    },
+    {
+      "word": "-neration,",
+      "start_s": 14.54,
+      "end_s": 15.04
+    },
+    {
+      "word": "development",
+      "start_s": 15.5,
+      "end_s": 15.88
+    },
+    {
+      "word": "environment,",
+      "start_s": 15.88,
+      "end_s": 16.7
+    },
+    {
+      "word": "the",
+      "start_s": 17.32,
+      "end_s": 17.38
+    },
+    {
+      "word": "objective",
+      "start_s": 17.38,
+      "end_s": 17.84
+    },
+    {
+      "word": "-sy",
+      "start_s": 17.84,
+      "end_s": 18.36
+    },
+    {
+      "word": "-library",
+      "start_s": 18.36,
+      "end_s": 18.78
+    },
+    {
+      "word": "classes,",
+      "start_s": 18.78,
+      "end_s": 19.2
+    },
+    {
+      "word": "hand",
+      "start_s": 19.64,
+      "end_s": 19.64
+    },
+    {
+      "word": "-and",
+      "start_s": 19.64,
+      "end_s": 19.86
+    },
+    {
+      "word": "-quart",
+      "start_s": 19.86,
+      "end_s": 20.18
+    },
+    {
+      "word": "-n",
+      "start_s": 20.18,
+      "end_s": 20.5
+    },
+    {
+      "word": "-s",
+      "start_s": 20.5,
+      "end_s": 20.74
+    },
+    {
+      "word": "-and",
+      "start_s": 20.74,
+      "end_s": 20.88
+    },
+    {
+      "word": "-quart.",
+      "start_s": 20.88,
+      "end_s": 21.32
+    },
+    {
+      "word": "Pre",
+      "start_s": 21.78,
+      "end_s": 21.96
+    },
+    {
+      "word": "-thits",
+      "start_s": 21.96,
+      "end_s": 22.2
+    },
+    {
+      "word": "and",
+      "start_s": 22.2,
+      "end_s": 22.78
+    },
+    {
+      "word": "the",
+      "start_s": 22.78,
+      "end_s": 23.1
+    },
+    {
+      "word": "history",
+      "start_s": 23.1,
+      "end_s": 23.5
+    },
+    {
+      "word": "section",
+      "start_s": 23.5,
+      "end_s": 23.96
+    },
+    {
+      "word": "of",
+      "start_s": 23.96,
+      "end_s": 24.24
+    },
+    {
+      "word": "the",
+      "start_s": 24.24,
+      "end_s": 24.34
+    },
+    {
+      "word": "manual",
+      "start_s": 24.34,
+      "end_s": 24.7
+    },
+    {
+      "word": "page",
+      "start_s": 24.7,
+      "end_s": 25.1
+    },
+    {
+      "word": "for",
+      "start_s": 25.1,
+      "end_s": 25.34
+    },
+    {
+      "word": "the",
+      "start_s": 25.34,
+      "end_s": 25.48
+    },
+    {
+      "word": "default",
+      "start_s": 25.48,
+      "end_s": 25.88
+    },
+    {
+      "word": "command",
+      "start_s": 25.88,
+      "end_s": 26.42
+    },
+    {
+      "word": "in",
+      "start_s": 26.42,
+      "end_s": 26.68
+    },
+    {
+      "word": "macOS",
+      "start_s": 26.68,
+      "end_s": 27.16
+    },
+    {
+      "word": "on",
+      "start_s": 27.16,
+      "end_s": 27.52
+    },
+    {
+      "word": "-creen,",
+      "start_s": 27.52,
+      "end_s": 27.94
+    },
+    {
+      "word": "supporting",
+      "start_s": 28.4,
+      "end_s": 28.72
+    },
+    {
+      "word": "visuals.",
+      "start_s": 28.72,
+      "end_s": 29.32
+    },
+    {
+      "word": "Acti,",
+      "start_s": 29.32,
+      "end_s": 30.62
+    },
+    {
+      "word": "F",
+      "start_s": 30.62,
+      "end_s": 31.02
+    },
+    {
+      "word": "-0",
+      "start_s": 31.02,
+      "end_s": 31.28
+    },
+    {
+      "word": "-0",
+      "start_s": 31.28,
+      "end_s": 31.62
+    },
+    {
+      "word": "-1",
+      "start_s": 31.62,
+      "end_s": 31.92
+    },
+    {
+      "word": "-1",
+      "start_s": 31.92,
+      "end_s": 32.36
+    },
+    {
+      "word": "-0",
+      "start_s": 32.36,
+      "end_s": 33.04
+    },
+    {
+      "word": "-0",
+      "start_s": 33.04,
+      "end_s": 33.68
+    },
+    {
+      "word": "-0",
+      "start_s": 33.68,
+      "end_s": 35.14
+    },
+    {
+      "word": "-0",
+      "start_s": 35.14,
+      "end_s": 35.92
+    },
+    {
+      "word": "-0",
+      "start_s": 35.92,
+      "end_s": 36.14
+    },
+    {
+      "word": "-0",
+      "start_s": 36.14,
+      "end_s": 36.36
+    },
+    {
+      "word": "-neration,",
+      "start_s": 36.36,
+      "end_s": 37.0
+    },
+    {
+      "word": "library",
+      "start_s": 37.62,
+      "end_s": 37.78
+    },
+    {
+      "word": "-comer",
+      "start_s": 37.78,
+      "end_s": 38.3
+    },
+    {
+      "word": "-wide",
+      "start_s": 38.3,
+      "end_s": 38.64
+    },
+    {
+      "word": "range",
+      "start_s": 38.64,
+      "end_s": 39.0
+    },
+    {
+      "word": "-on",
+      "start_s": 39.0,
+      "end_s": 39.22
+    },
+    {
+      "word": "-key",
+      "start_s": 39.22,
+      "end_s": 39.4
+    },
+    {
+      "word": "figures,",
+      "start_s": 39.4,
+      "end_s": 39.82
+    },
+    {
+      "word": "and",
+      "start_s": 40.14,
+      "end_s": 40.32
+    },
+    {
+      "word": "events",
+      "start_s": 40.32,
+      "end_s": 40.72
+    },
+    {
+      "word": "that",
+      "start_s": 40.72,
+      "end_s": 41.06
+    },
+    {
+      "word": "have",
+      "start_s": 41.06,
+      "end_s": 41.36
+    },
+    {
+      "word": "changed",
+      "start_s": 41.36,
+      "end_s": 41.78
+    },
+    {
+      "word": "the",
+      "start_s": 41.78,
+      "end_s": 42.08
+    },
+    {
+      "word": "game",
+      "start_s": 42.08,
+      "end_s": 42.28
+    },
+    {
+      "word": "in",
+      "start_s": 42.28,
+      "end_s": 42.4
+    },
+    {
+      "word": "unique",
+      "start_s": 42.4,
+      "end_s": 42.66
+    },
+    {
+      "word": "ways,",
+      "start_s": 42.66,
+      "end_s": 43.18
+    },
+    {
+      "word": "in",
+      "start_s": 43.6,
+      "end_s": 43.62
+    },
+    {
+      "word": "particular",
+      "start_s": 43.62,
+      "end_s": 44.08
+    },
+    {
+      "word": "over",
+      "start_s": 44.08,
+      "end_s": 44.5
+    },
+    {
+      "word": "the",
+      "start_s": 44.5,
+      "end_s": 44.7
+    },
+    {
+      "word": "last",
+      "start_s": 44.7,
+      "end_s": 45.0
+    },
+    {
+      "word": "century,",
+      "start_s": 45.0,
+      "end_s": 45.6
+    },
+    {
+      "word": "on",
+      "start_s": 46.18,
+      "end_s": 46.32
+    },
+    {
+      "word": "-creen,",
+      "start_s": 46.32,
+      "end_s": 46.82
+    },
+    {
+      "word": "supporting",
+      "start_s": 47.26,
+      "end_s": 47.58
+    },
+    {
+      "word": "visuals.",
+      "start_s": 47.58,
+      "end_s": 48.22
+    },
+    {
+      "word": "Fact.",
+      "start_s": 48.22,
+      "end_s": 49.1
+    },
+    {
+      "word": "F",
+      "start_s": 49.52,
+      "end_s": 49.88
+    },
+    {
+      "word": "-0",
+      "start_s": 49.88,
+      "end_s": 50.12
+    },
+    {
+      "word": "-0",
+      "start_s": 50.12,
+      "end_s": 50.5
+    },
+    {
+      "word": "-0",
+      "start_s": 50.5,
+      "end_s": 50.72
+    },
+    {
+      "word": "-0",
+      "start_s": 50.72,
+      "end_s": 50.92
+    },
+    {
+      "word": "-0",
+      "start_s": 50.92,
+      "end_s": 50.96
+    },
+    {
+      "word": "-0",
+      "start_s": 50.96,
+      "end_s": 51.12
+    },
+    {
+      "word": "-0",
+      "start_s": 51.12,
+      "end_s": 51.9
+    },
+    {
+      "word": "-0",
+      "start_s": 51.9,
+      "end_s": 52.04
+    },
+    {
+      "word": "-0",
+      "start_s": 52.04,
+      "end_s": 52.46
+    },
+    {
+      "word": "-1,",
+      "start_s": 52.46,
+      "end_s": 54.78
+    },
+    {
+      "word": "0",
+      "start_s": 54.9,
+      "end_s": 56.4
+    },
+    {
+      "word": "-0",
+      "start_s": 56.4,
+      "end_s": 56.94
+    },
+    {
+      "word": "-0",
+      "start_s": 56.94,
+      "end_s": 57.34
+    },
+    {
+      "word": "-0",
+      "start_s": 57.34,
+      "end_s": 57.68
+    },
+    {
+      "word": "-0",
+      "start_s": 57.68,
+      "end_s": 57.98
+    },
+    {
+      "word": "-0",
+      "start_s": 57.98,
+      "end_s": 58.12
+    },
+    {
+      "word": "-3",
+      "start_s": 58.12,
+      "end_s": 58.4
+    },
+    {
+      "word": "-0",
+      "start_s": 58.4,
+      "end_s": 58.74
+    },
+    {
+      "word": "-0",
+      "start_s": 58.74,
+      "end_s": 59.12
+    },
+    {
+      "word": "-neration,",
+      "start_s": 59.12,
+      "end_s": 59.86
+    },
+    {
+      "word": "golf",
+      "start_s": 60.34,
+      "end_s": 60.54
+    },
+    {
+      "word": "channel",
+      "start_s": 60.54,
+      "end_s": 60.9
+    },
+    {
+      "word": "asynchronous",
+      "start_s": 60.9,
+      "end_s": 61.36
+    },
+    {
+      "word": "green,",
+      "start_s": 61.36,
+      "end_s": 62.0
+    },
+    {
+      "word": "supporting",
+      "start_s": 62.36,
+      "end_s": 62.62
+    },
+    {
+      "word": "visuals.",
+      "start_s": 62.62,
+      "end_s": 63.28
+    },
+    {
+      "word": "Fact.",
+      "start_s": 64.32,
+      "end_s": 64.32
+    },
+    {
+      "word": "F",
+      "start_s": 64.74,
+      "end_s": 64.94
+    },
+    {
+      "word": "-0",
+      "start_s": 64.94,
+      "end_s": 65.18
+    },
+    {
+      "word": "-0",
+      "start_s": 65.18,
+      "end_s": 65.5
+    },
+    {
+      "word": "-0",
+      "start_s": 65.5,
+      "end_s": 65.64
+    },
+    {
+      "word": "-3",
+      "start_s": 65.64,
+      "end_s": 65.8
+    },
+    {
+      "word": "-0",
+      "start_s": 65.8,
+      "end_s": 66.24
+    },
+    {
+      "word": "-2,",
+      "start_s": 66.24,
+      "end_s": 66.92
+    },
+    {
+      "word": "0",
+      "start_s": 67.18,
+      "end_s": 67.4
+    },
+    {
+      "word": "-0",
+      "start_s": 67.4,
+      "end_s": 67.78
+    },
+    {
+      "word": "-0",
+      "start_s": 67.78,
+      "end_s": 68.14
+    },
+    {
+      "word": "-0",
+      "start_s": 68.14,
+      "end_s": 68.78
+    },
+    {
+      "word": "-0",
+      "start_s": 68.78,
+      "end_s": 69.06
+    },
+    {
+      "word": "-0",
+      "start_s": 69.06,
+      "end_s": 69.78
+    },
+    {
+      "word": "-0",
+      "start_s": 69.78,
+      "end_s": 70.16
+    },
+    {
+      "word": "-neration,",
+      "start_s": 70.16,
+      "end_s": 70.92
+    },
+    {
+      "word": "the",
+      "start_s": 71.4,
+      "end_s": 71.42
+    },
+    {
+      "word": "history",
+      "start_s": 71.42,
+      "end_s": 71.82
+    },
+    {
+      "word": "-e",
+      "start_s": 71.82,
+      "end_s": 72.16
+    },
+    {
+      "word": "automatic",
+      "start_s": 72.16,
+      "end_s": 72.26
+    },
+    {
+      "word": "included,",
+      "start_s": 72.26,
+      "end_s": 72.86
+    },
+    {
+      "word": "Virginia,",
+      "start_s": 73.7,
+      "end_s": 73.7
+    },
+    {
+      "word": "begin",
+      "start_s": 73.98,
+      "end_s": 74.3
+    },
+    {
+      "word": "with",
+      "start_s": 74.3,
+      "end_s": 74.62
+    },
+    {
+      "word": "the",
+      "start_s": 74.62,
+      "end_s": 74.84
+    },
+    {
+      "word": "first",
+      "start_s": 74.84,
+      "end_s": 75.06
+    },
+    {
+      "word": "European",
+      "start_s": 75.06,
+      "end_s": 75.54
+    },
+    {
+      "word": "settlement",
+      "start_s": 75.54,
+      "end_s": 76.14
+    },
+    {
+      "word": "in",
+      "start_s": 76.14,
+      "end_s": 76.52
+    },
+    {
+      "word": "2016.",
+      "start_s": 76.52,
+      "end_s": 77.54
+    },
+    {
+      "word": "The",
+      "start_s": 107.54,
+      "end_s": 107.92
+    },
+    {
+      "word": "number",
+      "start_s": 107.92,
+      "end_s": 107.92
+    },
+    {
+      "word": "high",
+      "start_s": 107.92,
+      "end_s": 108.22
+    },
+    {
+      "word": "River",
+      "start_s": 108.22,
+      "end_s": 108.58
+    },
+    {
+      "word": "Delta,",
+      "start_s": 108.58,
+      "end_s": 109.06
+    },
+    {
+      "word": "it",
+      "start_s": 109.3,
+      "end_s": 109.46
+    },
+    {
+      "word": "extend",
+      "start_s": 109.46,
+      "end_s": 109.92
+    },
+    {
+      "word": "the",
+      "start_s": 109.92,
+      "end_s": 110.18
+    },
+    {
+      "word": "amount",
+      "start_s": 110.18,
+      "end_s": 110.36
+    },
+    {
+      "word": "for",
+      "start_s": 110.36,
+      "end_s": 110.62
+    },
+    {
+      "word": "the",
+      "start_s": 110.62,
+      "end_s": 110.86
+    },
+    {
+      "word": "KM,",
+      "start_s": 110.86,
+      "end_s": 111.22
+    },
+    {
+      "word": "25",
+      "start_s": 111.52,
+      "end_s": 111.96
+    },
+    {
+      "word": "-my,",
+      "start_s": 111.96,
+      "end_s": 112.44
+    },
+    {
+      "word": "along",
+      "start_s": 112.72,
+      "end_s": 112.94
+    },
+    {
+      "word": "the",
+      "start_s": 112.94,
+      "end_s": 113.24
+    },
+    {
+      "word": "country",
+      "start_s": 113.24,
+      "end_s": 113.58
+    },
+    {
+      "word": "and",
+      "start_s": 113.58,
+      "end_s": 113.94
+    },
+    {
+      "word": "hash",
+      "start_s": 113.94,
+      "end_s": 114.16
+    },
+    {
+      "word": "near",
+      "start_s": 114.16,
+      "end_s": 114.4
+    },
+    {
+      "word": "-operative",
+      "start_s": 114.4,
+      "end_s": 114.9
+    },
+    {
+      "word": "high",
+      "start_s": 114.9,
+      "end_s": 115.2
+    },
+    {
+      "word": "-ness",
+      "start_s": 115.2,
+      "end_s": 115.34
+    },
+    {
+      "word": "northern",
+      "start_s": 115.34,
+      "end_s": 115.68
+    },
+    {
+      "word": "coast",
+      "start_s": 115.68,
+      "end_s": 116.12
+    },
+    {
+      "word": "on",
+      "start_s": 116.12,
+      "end_s": 116.4
+    },
+    {
+      "word": "screen.",
+      "start_s": 116.4,
+      "end_s": 116.9
+    },
+    {
+      "word": "Supporting",
+      "start_s": 117.46,
+      "end_s": 117.9
+    },
+    {
+      "word": "Visual",
+      "start_s": 117.9,
+      "end_s": 118.26
+    },
+    {
+      "word": "Fact",
+      "start_s": 118.26,
+      "end_s": 119.38
+    },
+    {
+      "word": "F",
+      "start_s": 119.38,
+      "end_s": 119.96
+    },
+    {
+      "word": "-neoromero",
+      "start_s": 119.96,
+      "end_s": 120.6
+    },
+    {
+      "word": "-six",
+      "start_s": 120.6,
+      "end_s": 120.94
+    },
+    {
+      "word": "-p",
+      "start_s": 120.94,
+      "end_s": 121.26
+    },
+    {
+      "word": "-300",
+      "start_s": 121.26,
+      "end_s": 121.74
+    },
+    {
+      "word": "-3,",
+      "start_s": 121.74,
+      "end_s": 122.26
+    },
+    {
+      "word": "near",
+      "start_s": 122.46,
+      "end_s": 122.6
+    },
+    {
+      "word": "-o",
+      "start_s": 122.6,
+      "end_s": 122.74
+    },
+    {
+      "word": "-six",
+      "start_s": 122.74,
+      "end_s": 123.06
+    },
+    {
+      "word": "-neoromero",
+      "start_s": 123.06,
+      "end_s": 123.8
+    },
+    {
+      "word": "-mash",
+      "start_s": 123.8,
+      "end_s": 124.14
+    },
+    {
+      "word": "-neoromero",
+      "start_s": 124.14,
+      "end_s": 124.66
+    },
+    {
+      "word": "-7,",
+      "start_s": 124.66,
+      "end_s": 124.88
+    },
+    {
+      "word": "near",
+      "start_s": 125.2,
+      "end_s": 125.2
+    },
+    {
+      "word": "-o",
+      "start_s": 125.2,
+      "end_s": 125.3
+    },
+    {
+      "word": "-neoromeration.",
+      "start_s": 125.3,
+      "end_s": 126.38
+    },
+    {
+      "word": "With",
+      "start_s": 126.82,
+      "end_s": 126.96
+    },
+    {
+      "word": "plug",
+      "start_s": 126.96,
+      "end_s": 127.22
+    },
+    {
+      "word": "-o",
+      "start_s": 127.22,
+      "end_s": 127.4
+    },
+    {
+      "word": "and",
+      "start_s": 127.4,
+      "end_s": 127.8
+    },
+    {
+      "word": "Aristotle",
+      "start_s": 127.8,
+      "end_s": 128.22
+    },
+    {
+      "word": "featured",
+      "start_s": 128.22,
+      "end_s": 128.74
+    },
+    {
+      "word": "in",
+      "start_s": 128.74,
+      "end_s": 129.06
+    },
+    {
+      "word": "the",
+      "start_s": 129.06,
+      "end_s": 129.16
+    },
+    {
+      "word": "center.",
+      "start_s": 129.16,
+      "end_s": 129.6
+    },
+    {
+      "word": "Armed",
+      "start_s": 130.14,
+      "end_s": 130.32
+    },
+    {
+      "word": "screen.",
+      "start_s": 130.32,
+      "end_s": 130.76
+    },
+    {
+      "word": "Supporting",
+      "start_s": 131.24,
+      "end_s": 131.76
+    },
+    {
+      "word": "Visual",
+      "start_s": 131.76,
+      "end_s": 132.18
+    },
+    {
+      "word": "Fact",
+      "start_s": 132.18,
+      "end_s": 133.26
+    },
+    {
+      "word": "F",
+      "start_s": 133.26,
+      "end_s": 133.84
+    },
+    {
+      "word": "-neoromero",
+      "start_s": 133.84,
+      "end_s": 134.5
+    },
+    {
+      "word": "-7,",
+      "start_s": 134.5,
+      "end_s": 134.9
+    },
+    {
+      "word": "near",
+      "start_s": 135.02,
+      "end_s": 135.18
+    },
+    {
+      "word": "-o",
+      "start_s": 135.18,
+      "end_s": 135.26
+    },
+    {
+      "word": "-neoromeration",
+      "start_s": 135.26,
+      "end_s": 135.8
+    },
+    {
+      "word": "-estimate,",
+      "start_s": 135.8,
+      "end_s": 136.38
+    },
+    {
+      "word": "to",
+      "start_s": 136.82,
+      "end_s": 136.96
+    },
+    {
+      "word": "M.",
+      "start_s": 136.96,
+      "end_s": 137.22
+    }
+  ],
+  "sentences": [
+    {
+      "text": "The library on valid mandatory log line, a documentary exploring the library on valid mandatory.",
+      "start_s": 0.0,
+      "end_s": 5.8
+    },
+    {
+      "text": "Acti, origin context, and background.",
+      "start_s": 6.3,
+      "end_s": 9.24
+    },
+    {
+      "text": "B -1001, 0 -0 -0 -0 -0 -0 -0 -0 -0 -neration, development environment, the objective -sy -library classes, hand -and -quart -n -s -and -quart.",
+      "start_s": 9.92,
+      "end_s": 21.32
+    },
+    {
+      "text": "Pre -thits and the history section of the manual page for the default command in macOS on -creen, supporting visuals.",
+      "start_s": 21.78,
+      "end_s": 29.32
+    },
+    {
+      "text": "Acti, F -0 -0 -1 -1 -0 -0 -0 -0 -0 -0 -neration, library -comer -wide range -on -key figures, and events that have changed the game in unique ways, in particular over the last century, on -creen, supporting visuals.",
+      "start_s": 29.32,
+      "end_s": 48.22
+    },
+    {
+      "text": "Fact.",
+      "start_s": 48.22,
+      "end_s": 49.1
+    },
+    {
+      "text": "F -0 -0 -0 -0 -0 -0 -0 -0 -0 -1, 0 -0 -0 -0 -0 -0 -3 -0 -0 -neration, golf channel asynchronous green, supporting visuals.",
+      "start_s": 49.52,
+      "end_s": 63.28
+    },
+    {
+      "text": "Fact.",
+      "start_s": 64.32,
+      "end_s": 64.32
+    },
+    {
+      "text": "F -0 -0 -0 -3 -0 -2, 0 -0 -0 -0 -0 -0 -0 -neration, the history -e automatic included, Virginia, begin with the first European settlement in 2016.",
+      "start_s": 64.74,
+      "end_s": 77.54
+    },
+    {
+      "text": "The number high River Delta, it extend the amount for the KM, 25 -my, along the country and hash near -operative high -ness northern coast on screen.",
+      "start_s": 107.54,
+      "end_s": 116.9
+    },
+    {
+      "text": "Supporting Visual Fact F -neoromero -six -p -300 -3, near -o -six -neoromero -mash -neoromero -7, near -o -neoromeration.",
+      "start_s": 117.46,
+      "end_s": 126.38
+    },
+    {
+      "text": "With plug -o and Aristotle featured in the center.",
+      "start_s": 126.82,
+      "end_s": 129.6
+    },
+    {
+      "text": "Armed screen.",
+      "start_s": 130.14,
+      "end_s": 130.76
+    },
+    {
+      "text": "Supporting Visual Fact F -neoromero -7, near -o -neoromeration -estimate, to M.",
+      "start_s": 131.24,
+      "end_s": 137.22
+    }
+  ],
+  "provider": "espeak",
+  "aligned_via": "asr",
+  "voice": "documentary_male_warm",
+  "speed": 1.0,
+  "target_lufs": -14.0,
+  "generated_at": "2026-08-05T11:34:46.611669+00:00"
+}

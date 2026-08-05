@@ -1,0 +1,16 @@
+{
+  "stage": "P5",
+  "status": "complete",
+  "started_at": "2026-08-05T11:33:59.139404+00:00",
+  "completed_at": "2026-08-05T11:33:59.139407+00:00",
+  "input_hash": "e3b0c44298fc1c14",
+  "output_hash": "3be7e8284b682e5c",
+  "validation": {
+    "verifier": "pass",
+    "truth": "skipped",
+    "tester": "pass",
+    "overall": true
+  },
+  "fallback_used": null,
+  "artifact_path": "/home/z/my-project/ai-documentary-studio/projects/the-library-of-alexandria/directors_treatment.json"
+}

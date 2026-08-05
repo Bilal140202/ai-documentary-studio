@@ -1,0 +1,12 @@
+{
+  "final_mp4": "/home/z/my-project/ai-documentary-studio/assets/library/renders/the-library-of-alexandria.mp4",
+  "srt": "/home/z/my-project/ai-documentary-studio/assets/library/renders/the-library-of-alexandria.srt",
+  "audio_stem": "/home/z/my-project/ai-documentary-studio/assets/library/renders/the-library-of-alexandria_audio.wav",
+  "duration_s": 2.453,
+  "resolution": "1920x1080",
+  "fps": 30,
+  "codec": "h264",
+  "sha256": "a069ec4b3782c6d6b14bdb3546191b094e05f6052c46accd77587ff73890c9c9",
+  "rendered_at": "2026-08-05T11:35:03.289671+00:00",
+  "render_runtime": "ffmpeg"
+}

@@ -1,0 +1,16 @@
+{
+  "stage": "P13",
+  "status": "complete",
+  "started_at": "2026-08-05T11:35:03.290492+00:00",
+  "completed_at": "2026-08-05T11:35:03.290496+00:00",
+  "input_hash": "e3b0c44298fc1c14",
+  "output_hash": "50bc6d656b735f45",
+  "validation": {
+    "verifier": "pass",
+    "truth": "skipped",
+    "tester": "pass",
+    "overall": true
+  },
+  "fallback_used": null,
+  "artifact_path": "/home/z/my-project/ai-documentary-studio/projects/the-library-of-alexandria/render_manifest.json"
+}

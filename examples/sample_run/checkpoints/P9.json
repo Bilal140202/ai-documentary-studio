@@ -1,0 +1,16 @@
+{
+  "stage": "P9",
+  "status": "complete",
+  "started_at": "2026-08-05T11:34:46.625159+00:00",
+  "completed_at": "2026-08-05T11:34:46.625163+00:00",
+  "input_hash": "e3b0c44298fc1c14",
+  "output_hash": "77713437138d5957",
+  "validation": {
+    "verifier": "pass",
+    "truth": "skipped",
+    "tester": "pass",
+    "overall": true
+  },
+  "fallback_used": null,
+  "artifact_path": "/home/z/my-project/ai-documentary-studio/projects/the-library-of-alexandria/narration_aligned.json"
+}

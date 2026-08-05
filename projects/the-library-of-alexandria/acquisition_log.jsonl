@@ -1,0 +1,14 @@
+{"asset_id": "A001", "source": "youtube", "status": "failed", "error": "maximum recursion depth exceeded"}
+{"asset_id": "A001", "status": "acquired", "source": "archive"}
+{"asset_id": "A002", "source": "youtube", "status": "failed", "error": "maximum recursion depth exceeded"}
+{"asset_id": "A002", "status": "acquired", "source": "archive"}
+{"asset_id": "A003", "source": "youtube", "status": "failed", "error": "maximum recursion depth exceeded"}
+{"asset_id": "A003", "status": "acquired", "source": "archive"}
+{"asset_id": "A004", "source": "youtube", "status": "failed", "error": "maximum recursion depth exceeded"}
+{"asset_id": "A004", "status": "acquired", "source": "archive"}
+{"asset_id": "A005", "source": "youtube", "status": "failed", "error": "maximum recursion depth exceeded"}
+{"asset_id": "A005", "status": "acquired", "source": "archive"}
+{"asset_id": "A006", "source": "youtube", "status": "failed", "error": "maximum recursion depth exceeded"}
+{"asset_id": "A006", "status": "acquired", "source": "archive"}
+{"asset_id": "A007", "source": "youtube", "status": "failed", "error": "maximum recursion depth exceeded"}
+{"asset_id": "A007", "status": "acquired", "source": "archive"}

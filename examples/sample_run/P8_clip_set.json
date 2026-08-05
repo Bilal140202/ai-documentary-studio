@@ -1,0 +1,88 @@
+{
+  "clips": [
+    {
+      "clip_id": "C001",
+      "shot_id": "S001",
+      "asset_id": "A001",
+      "video_id": "A001",
+      "start_s": 0.0,
+      "end_s": 10.0,
+      "score": 0.1,
+      "channel": "similarity",
+      "reason": "fallback: no semantic match found; using opening clip",
+      "transcript_excerpt": ""
+    },
+    {
+      "clip_id": "C002",
+      "shot_id": "S002",
+      "asset_id": "A002",
+      "video_id": "A002",
+      "start_s": 0.0,
+      "end_s": 10.0,
+      "score": 0.1,
+      "channel": "similarity",
+      "reason": "fallback: no semantic match found; using opening clip",
+      "transcript_excerpt": ""
+    },
+    {
+      "clip_id": "C003",
+      "shot_id": "S003",
+      "asset_id": "A003",
+      "video_id": "A003",
+      "start_s": 0.0,
+      "end_s": 10.0,
+      "score": 0.1,
+      "channel": "similarity",
+      "reason": "fallback: no semantic match found; using opening clip",
+      "transcript_excerpt": ""
+    },
+    {
+      "clip_id": "C004",
+      "shot_id": "S004",
+      "asset_id": "A004",
+      "video_id": "A004",
+      "start_s": 0.0,
+      "end_s": 10.0,
+      "score": 0.1,
+      "channel": "similarity",
+      "reason": "fallback: no semantic match found; using opening clip",
+      "transcript_excerpt": ""
+    },
+    {
+      "clip_id": "C005",
+      "shot_id": "S005",
+      "asset_id": "A005",
+      "video_id": "A005",
+      "start_s": 0.0,
+      "end_s": 10.0,
+      "score": 0.1,
+      "channel": "similarity",
+      "reason": "fallback: no semantic match found; using opening clip",
+      "transcript_excerpt": ""
+    },
+    {
+      "clip_id": "C006",
+      "shot_id": "S006",
+      "asset_id": "A006",
+      "video_id": "A006",
+      "start_s": 0.0,
+      "end_s": 10.0,
+      "score": 0.1,
+      "channel": "similarity",
+      "reason": "fallback: no semantic match found; using opening clip",
+      "transcript_excerpt": ""
+    },
+    {
+      "clip_id": "C007",
+      "shot_id": "S007",
+      "asset_id": "A007",
+      "video_id": "A007",
+      "start_s": 0.0,
+      "end_s": 10.0,
+      "score": 0.1,
+      "channel": "similarity",
+      "reason": "fallback: no semantic match found; using opening clip",
+      "transcript_excerpt": ""
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+# Asset binaries (large files)
+assets/library/raw/**
+assets/library/processed/**
+assets/library/clips/**
+assets/library/audio/**
+assets/library/narration/**
+assets/library/music/**
+assets/library/graphics/**
+!assets/library/renders/.gitkeep
+downloads/youtube/**
+!downloads/youtube/.gitkeep
+
+# Project workspaces (keep worklogs, ignore media)
+projects/*/checkpoints/**
+projects/*/assets/**
+projects/*/graphics/**
+projects/*/renders/**
+!projects/*/worklog.md
+!projects/*/qa_report.md
+!projects/*/ESCALATION.md
+
+# Logs (keep directory, ignore contents)
+logs/*
+!logs/.gitkeep
+
+# Evidence (keep samples, ignore bulk)
+evidence/**
+!evidence/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.mypy_cache/
+.ruff_cache/
+
+# Secrets — NEVER commit
+.env
+.env.local
+*.pem
+*.key
+config/secrets.yaml
+
+# Vendor (OpenMontage cloned at install)
+vendor/
+
+# Node (HyperFrames workspaces)
+node_modules/
+package-lock.json

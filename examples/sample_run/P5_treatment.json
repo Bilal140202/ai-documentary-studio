@@ -1,0 +1,35 @@
+{
+  "tone": "cinematic_neutral",
+  "pace": "measured",
+  "color_palette": [
+    "#0a0a0a",
+    "#1a1a1a",
+    "#2a2a2a",
+    "#e0e0e0"
+  ],
+  "typography": "serif_titles_sans_body",
+  "music_structure": {
+    "energy_curve": [
+      {
+        "timecode": "00:00",
+        "energy": 0.3
+      },
+      {
+        "timecode": "05:00",
+        "energy": 0.6
+      },
+      {
+        "timecode": "10:00",
+        "energy": 0.7
+      },
+      {
+        "timecode": "14:00",
+        "energy": 0.4
+      }
+    ]
+  },
+  "voice_profile": "documentary_male_warm",
+  "transition_style": "crossfade_with_occasional_hard_cuts",
+  "graphic_style": "minimal_kinetic_typography",
+  "scene_adjustments": []
+}

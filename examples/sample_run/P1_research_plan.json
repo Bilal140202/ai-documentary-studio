@@ -1,0 +1,41 @@
+{
+  "topic": "The Library of Alexandria",
+  "duration_target": "2m",
+  "style": "cinematic",
+  "subtopics": [
+    {
+      "name": "The Library",
+      "key_questions": [
+        "What is the history of The Library?",
+        "Who are the key figures in The Library?",
+        "What is the significance of The Library?"
+      ],
+      "search_queries": [
+        "The Library history overview",
+        "The Library key figures significance"
+      ],
+      "priority": "high"
+    },
+    {
+      "name": "Alexandria",
+      "key_questions": [
+        "What is the history of Alexandria?",
+        "Who are the key figures in Alexandria?",
+        "What is the significance of Alexandria?"
+      ],
+      "search_queries": [
+        "Alexandria history overview",
+        "Alexandria key figures significance"
+      ],
+      "priority": "high"
+    }
+  ],
+  "source_types": [
+    "academic",
+    "news",
+    "archival",
+    "primary"
+  ],
+  "estimated_source_count": 15,
+  "research_budget_minutes": 8
+}

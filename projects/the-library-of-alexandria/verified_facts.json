@@ -1,0 +1,223 @@
+{
+  "facts": [
+    {
+      "fact_id": "F001",
+      "claim": "development environment, the Objective-C library classes have &quot;NS&quot; prefixes, and the HISTORY section of the manual page for the defaults command in macOS",
+      "sources": [
+        "wiki_Objective-C",
+        "web_0",
+        "web_1"
+      ],
+      "confidence": "high",
+      "contradiction": null,
+      "snapshot_urls": [],
+      "source_details": [
+        {
+          "source_id": "wiki_Objective-C",
+          "url": "https://en.wikipedia.org/wiki/Objective-C",
+          "tier": 2,
+          "excerpt": "on OpenStep interface objects and is the most significant Objective-C environment being used for active development. At Worldwide Developers Conference"
+        },
+        {
+          "source_id": "web_0",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fdeveloper.apple.com%2Fdocumentation%2Fobjectivec%3Flangage%3Dobjc&amp;rut=c9c7546c7c932e44983be945efde953aefc2d8b5f08265350f6853a44dd4c7e0",
+          "tier": 3,
+          "excerpt": "Objective-C Runtime | Apple Developer Documentation"
+        },
+        {
+          "source_id": "web_1",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fdeveloper.apple.com%2Flibrary%2Farchive%2Fdocumentation%2FCocoa%2FConceptual%2FObjectiveC%2FIntroduction%2FintroObjectiveC.html&amp;rut=a5ab8352dbc8111b60c4dd11dac413d7acf8ce71528fd37c56af7b0c377f2f4e",
+          "tier": 3,
+          "excerpt": "The Objective-C Programming Language - Apple Developer"
+        }
+      ],
+      "verified_at": "2026-08-05T11:33:30.193430+00:00"
+    },
+    {
+      "fact_id": "F002",
+      "claim": "library cover a wide range of key figures and events that have changed the game in unique ways, in particular over the last century.",
+      "sources": [
+        "web_0",
+        "web_1"
+      ],
+      "confidence": "medium",
+      "contradiction": null,
+      "snapshot_urls": [],
+      "source_details": [
+        {
+          "source_id": "web_0",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fala150.org%2F55%2Dmoments%2Dthat%2Dredefined%2Dlibrarianship%2F&amp;rut=5301b868e38568bed72c9fd1791a204eda4d20a10296ccbd1e446773eb2c87f2",
+          "tier": 3,
+          "excerpt": "55 Moments That Redefined Librarianship - ALA150"
+        },
+        {
+          "source_id": "web_1",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Famericanlibrariesmagazine.org%2F2026%2F05%2F01%2F55%2Dmoments%2Dthat%2Dredefined%2Dlibrarianship%2F&amp;rut=16d9f956d5fa59372d647e8b4bd6f0797475218faa01b092274e3d658db1891a",
+          "tier": 3,
+          "excerpt": "55 Moments That Redefined Librarianship - American Libraries Magazine"
+        }
+      ],
+      "verified_at": "2026-08-05T11:33:32.181440+00:00"
+    },
+    {
+      "fact_id": "F003",
+      "claim": "Golf Channel is an",
+      "sources": [
+        "wiki_Golf Channel",
+        "web_0",
+        "web_1"
+      ],
+      "confidence": "high",
+      "contradiction": null,
+      "snapshot_urls": [
+        "http://web.archive.org/web/20260617004556/https://en.wikipedia.org/wiki/Golf_Channel"
+      ],
+      "source_details": [
+        {
+          "source_id": "wiki_Golf Channel",
+          "url": "https://en.wikipedia.org/wiki/Golf_Channel",
+          "tier": 2,
+          "excerpt": "Golf Channel (also verbally referred to as simply &quot;Golf&quot;) is an American sports television network owned by Versant. Founded in Birmingham, Alabama, it"
+        },
+        {
+          "source_id": "web_0",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.golfchannel.com%2F&amp;rut=07572b06233dd85fe9b96b751f44b364935c42c382a814e489700012d02382ba",
+          "tier": 3,
+          "excerpt": "Golf Channel - Live Streams, News, Videos and Podcasts"
+        },
+        {
+          "source_id": "web_1",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.nbcsports.com%2Fgolf&amp;rut=1df18ad74711f6f5a12fb2797e3922d31dfa4f68a2ff3037e46919498efc3160",
+          "tier": 3,
+          "excerpt": "Golf: News, Videos, Stats, Highlights, Results &amp; More - NBC Sports"
+        }
+      ],
+      "verified_at": "2026-08-05T11:33:35.364955+00:00"
+    },
+    {
+      "fact_id": "F004",
+      "claim": "The history of Alexandria, Virginia, begins with the first European settlement in 1695.",
+      "sources": [
+        "wiki_History of Alexandria, Virginia",
+        "web_0",
+        "web_1"
+      ],
+      "confidence": "high",
+      "contradiction": null,
+      "snapshot_urls": [
+        "http://web.archive.org/web/20260502010340/https://en.wikipedia.org/wiki/History_of_Alexandria,_Virginia"
+      ],
+      "source_details": [
+        {
+          "source_id": "wiki_History of Alexandria, Virginia",
+          "url": "https://en.wikipedia.org/wiki/History_of_Alexandria,_Virginia",
+          "tier": 2,
+          "excerpt": "The history of Alexandria, Virginia, begins with the first European settlement in 1695. Over the next century, the town became a significant port. In 1801"
+        },
+        {
+          "source_id": "web_0",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHistory_of_Alexandria%2C_Virginia&amp;rut=c2f230fd371ef7ca2f6064be924eea4367b84238d7c038b5895807a68b7badaf",
+          "tier": 3,
+          "excerpt": "History of Alexandria, Virginia - Wikipedia"
+        },
+        {
+          "source_id": "web_1",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.alexandriava.gov%2Fhistoric%2Dalexandria%2Fa%2Dbrief%2Dhistory%2Dof%2Dalexandria&amp;rut=88dedbe06b582eabe3d2c32bcc103a6dbacac017ff3ce37e628df6d8581ac9c1",
+          "tier": 3,
+          "excerpt": "A Brief History of Alexandria | City of Alexandria, VA"
+        }
+      ],
+      "verified_at": "2026-08-05T11:33:37.486669+00:00"
+    },
+    {
+      "fact_id": "F005",
+      "claim": "Alexandria is a major city in Egypt.",
+      "sources": [
+        "wiki_Alexandria"
+      ],
+      "confidence": "low",
+      "contradiction": null,
+      "snapshot_urls": [],
+      "source_details": [
+        {
+          "source_id": "wiki_Alexandria",
+          "url": "https://en.wikipedia.org/wiki/Alexandria",
+          "tier": 2,
+          "excerpt": "Alexandria is a major city in Egypt. Lying at the western edge of the Nile River Delta, it extends about 40 km (25 mi) along the country&#039;s northern coast"
+        }
+      ],
+      "verified_at": "2026-08-05T11:33:53.565792+00:00"
+    },
+    {
+      "fact_id": "F006",
+      "claim": "Lying at the western edge of the Nile River Delta, it extends about 40 km (25 mi) along the country&#039;s northern coast",
+      "sources": [
+        "wiki_Shelby, North Carolina",
+        "web_0",
+        "web_1"
+      ],
+      "confidence": "high",
+      "contradiction": null,
+      "snapshot_urls": [
+        "http://web.archive.org/web/20260625175435/https://en.wikipedia.org/wiki/Shelby,_North_Carolina"
+      ],
+      "source_details": [
+        {
+          "source_id": "wiki_Shelby, North Carolina",
+          "url": "https://en.wikipedia.org/wiki/Shelby,_North_Carolina",
+          "tier": 2,
+          "excerpt": "and the county seat of Cleveland County, North Carolina. It lies near the western edge of the Charlotte-Concord, NC-SC Combined Statistical Area. The population"
+        },
+        {
+          "source_id": "web_0",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAlexandria&amp;rut=c62cc85dc9e52338e7538f93f8f0c2d721734e91618424fc1ea63741c20bd6ac",
+          "tier": 3,
+          "excerpt": "Alexandria - Wikipedia"
+        },
+        {
+          "source_id": "web_1",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.wikiwand.com%2Fen%2Farticles%2FCity_of_Alexandria&amp;rut=e5e53fa806e0a38c3f58cc0384897633eaea0d2cdff7bb727beb30abef297e48",
+          "tier": 3,
+          "excerpt": "Alexandria - Wikiwand"
+        }
+      ],
+      "verified_at": "2026-08-05T11:33:57.155413+00:00"
+    },
+    {
+      "fact_id": "F007",
+      "claim": "with Plato and Aristotle featured in the center.",
+      "sources": [
+        "wiki_The School of Athens",
+        "web_0",
+        "web_1"
+      ],
+      "confidence": "high",
+      "contradiction": null,
+      "snapshot_urls": [
+        "http://web.archive.org/web/20260803231106/https://en.wikipedia.org/wiki/The_School_of_Athens"
+      ],
+      "source_details": [
+        {
+          "source_id": "wiki_The School of Athens",
+          "url": "https://en.wikipedia.org/wiki/The_School_of_Athens",
+          "tier": 2,
+          "excerpt": "congregation of ancient mathematicians, philosophers, and scientists, with Plato and Aristotle featured in the center. The identities of most figures are"
+        },
+        {
+          "source_id": "web_0",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FThe_School_of_Athens&amp;rut=30cbb21ee7d50cfe5e86a1786a343334f63b4e5aa13f8ecb05dc9169af274dc7",
+          "tier": 3,
+          "excerpt": "The School of Athens - Wikipedia"
+        },
+        {
+          "source_id": "web_1",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Feverything.explained.today%2FThe_School_of_Athens%2F&amp;rut=d5ccc7821973ef691dd5662c03cdd5a86c822a2e61979fd48f15227d66934ab7",
+          "tier": 3,
+          "excerpt": "The School of Athens explained"
+        }
+      ],
+      "verified_at": "2026-08-05T11:33:59.123309+00:00"
+    }
+  ],
+  "unverified": []
+}

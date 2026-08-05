@@ -1,0 +1,19 @@
+{
+  "score_path": "/home/z/my-project/ai-documentary-studio/assets/library/music/the-library-of-alexandria_score.wav",
+  "duration_s": 137.600417,
+  "tracks": [
+    {
+      "title": "ambient_pad",
+      "source": "ffmpeg_lavfi",
+      "license": "generated",
+      "in_s": 0.0,
+      "out_s": 137.600417
+    }
+  ],
+  "ducking": {
+    "enabled": true,
+    "threshold_db": -12,
+    "attack_s": 0.05,
+    "release_s": 0.3
+  }
+}

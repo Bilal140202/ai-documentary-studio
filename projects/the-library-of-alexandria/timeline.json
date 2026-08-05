@@ -1,0 +1,144 @@
+{
+  "duration_s": 137.600417,
+  "video_layer": [
+    {
+      "event_id": "E003",
+      "type": "clip",
+      "asset_ref": "A001",
+      "in_s": 0.0,
+      "out_s": 10.0,
+      "timeline_in_s": 0.0,
+      "timeline_out_s": 19.657202428571427,
+      "filters": [
+        "fade_in:0.5",
+        "fade_out:0.5"
+      ],
+      "layer": "video"
+    },
+    {
+      "event_id": "E004",
+      "type": "clip",
+      "asset_ref": "A002",
+      "in_s": 0.0,
+      "out_s": 10.0,
+      "timeline_in_s": 19.657202428571427,
+      "timeline_out_s": 39.314404857142854,
+      "filters": [
+        "fade_in:0.5",
+        "fade_out:0.5"
+      ],
+      "layer": "video"
+    },
+    {
+      "event_id": "E005",
+      "type": "clip",
+      "asset_ref": "A003",
+      "in_s": 0.0,
+      "out_s": 10.0,
+      "timeline_in_s": 39.314404857142854,
+      "timeline_out_s": 58.971607285714285,
+      "filters": [
+        "fade_in:0.5",
+        "fade_out:0.5"
+      ],
+      "layer": "video"
+    },
+    {
+      "event_id": "E006",
+      "type": "clip",
+      "asset_ref": "A004",
+      "in_s": 0.0,
+      "out_s": 10.0,
+      "timeline_in_s": 58.971607285714285,
+      "timeline_out_s": 78.62880971428571,
+      "filters": [
+        "fade_in:0.5",
+        "fade_out:0.5"
+      ],
+      "layer": "video"
+    },
+    {
+      "event_id": "E007",
+      "type": "clip",
+      "asset_ref": "A005",
+      "in_s": 0.0,
+      "out_s": 10.0,
+      "timeline_in_s": 78.62880971428571,
+      "timeline_out_s": 98.28601214285713,
+      "filters": [
+        "fade_in:0.5",
+        "fade_out:0.5"
+      ],
+      "layer": "video"
+    },
+    {
+      "event_id": "E008",
+      "type": "clip",
+      "asset_ref": "A006",
+      "in_s": 0.0,
+      "out_s": 10.0,
+      "timeline_in_s": 98.28601214285713,
+      "timeline_out_s": 117.94321457142857,
+      "filters": [
+        "fade_in:0.5",
+        "fade_out:0.5"
+      ],
+      "layer": "video"
+    },
+    {
+      "event_id": "E009",
+      "type": "clip",
+      "asset_ref": "A007",
+      "in_s": 0.0,
+      "out_s": 10.0,
+      "timeline_in_s": 117.94321457142857,
+      "timeline_out_s": 137.600417,
+      "filters": [
+        "fade_in:0.5",
+        "fade_out:0.5"
+      ],
+      "layer": "video"
+    }
+  ],
+  "overlay_layer": [
+    {
+      "event_id": "E010",
+      "type": "graphic",
+      "asset_ref": "/home/z/my-project/ai-documentary-studio/assets/library/graphics/title/title.mp4",
+      "in_s": 0.0,
+      "out_s": 5.0,
+      "timeline_in_s": 0.0,
+      "timeline_out_s": 5.0,
+      "filters": [],
+      "layer": "overlay"
+    }
+  ],
+  "audio_layer": [
+    {
+      "event_id": "E001",
+      "type": "narration",
+      "asset_ref": "/home/z/my-project/ai-documentary-studio/assets/library/narration/the-library-of-alexandria.wav",
+      "in_s": 0.0,
+      "out_s": 137.600417,
+      "timeline_in_s": 0.0,
+      "timeline_out_s": 137.600417,
+      "filters": [],
+      "layer": "audio"
+    }
+  ],
+  "music_layer": [
+    {
+      "event_id": "E002",
+      "type": "music",
+      "asset_ref": "/home/z/my-project/ai-documentary-studio/assets/library/music/the-library-of-alexandria_score.wav",
+      "in_s": 0.0,
+      "out_s": 137.600417,
+      "timeline_in_s": 0.0,
+      "timeline_out_s": 137.600417,
+      "filters": [
+        "ducking:-12"
+      ],
+      "layer": "music"
+    }
+  ]
+}

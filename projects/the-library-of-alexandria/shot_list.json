@@ -1,0 +1,88 @@
+{
+  "shots": [
+    {
+      "shot_id": "S001",
+      "beat_id": "B101",
+      "type": "b-roll",
+      "description": "B-roll illustrating: development environment, the Objective-C library classes have &quot;NS&quot; pre",
+      "duration": 8.0,
+      "source_query": "development environment, the Objective-C library",
+      "alt_queries": [
+        "Supporting visuals."
+      ],
+      "required": true
+    },
+    {
+      "shot_id": "S002",
+      "beat_id": "B102",
+      "type": "b-roll",
+      "description": "B-roll illustrating: library cover a wide range of key figures and events that have changed the game ",
+      "duration": 8.0,
+      "source_query": "library cover a wide range",
+      "alt_queries": [
+        "Supporting visuals."
+      ],
+      "required": true
+    },
+    {
+      "shot_id": "S003",
+      "beat_id": "B201",
+      "type": "b-roll",
+      "description": "B-roll illustrating: Golf Channel is an",
+      "duration": 8.0,
+      "source_query": "Golf Channel is an",
+      "alt_queries": [
+        "Supporting visuals."
+      ],
+      "required": true
+    },
+    {
+      "shot_id": "S004",
+      "beat_id": "B202",
+      "type": "b-roll",
+      "description": "B-roll illustrating: The history of Alexandria, Virginia, begins with the first European settlement i",
+      "duration": 8.0,
+      "source_query": "The history of Alexandria, Virginia,",
+      "alt_queries": [
+        "Supporting visuals."
+      ],
+      "required": true
+    },
+    {
+      "shot_id": "S005",
+      "beat_id": "B301",
+      "type": "b-roll",
+      "description": "B-roll illustrating: Alexandria is a major city in Egypt.",
+      "duration": 8.0,
+      "source_query": "Alexandria is a major city",
+      "alt_queries": [
+        "Supporting visuals."
+      ],
+      "required": true
+    },
+    {
+      "shot_id": "S006",
+      "beat_id": "B302",
+      "type": "b-roll",
+      "description": "B-roll illustrating: Lying at the western edge of the Nile River Delta, it extends about 40 km (25 mi",
+      "duration": 8.0,
+      "source_query": "Lying at the western edge",
+      "alt_queries": [
+        "Supporting visuals."
+      ],
+      "required": true
+    },
+    {
+      "shot_id": "S007",
+      "beat_id": "B303",
+      "type": "b-roll",
+      "description": "B-roll illustrating: with Plato and Aristotle featured in the center.",
+      "duration": 8.0,
+      "source_query": "with Plato and Aristotle featured",
+      "alt_queries": [
+        "Supporting visuals."
+      ],
+      "required": true
+    }
+  ]
+}
