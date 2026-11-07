@@ -241,3 +241,11 @@ MIT for our code. OpenMontage is AGPL-3.0 (we orchestrate it via subprocess, nev
 - [HyperFrames](https://github.com/heygen-com/hyperframes) — HTML-to-MP4 motion graphics
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) — YouTube downloader
 - [FFmpeg](https://ffmpeg.org/) — the universal media toolchain
+
+---
+
+## Project status
+
+**Completed project** — verified in the portfolio audit of **7 November 2026** (README, codebase and project state reviewed).
+
+_Last verified: 7 November 2026_
